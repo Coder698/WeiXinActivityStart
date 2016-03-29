@@ -11,5 +11,5 @@
 
 ps: 代码只提供思路
 
-![image](https://github.com/Zhaoss/WeiXinActivityStart/blob/master/image/1.png?raw=true)
-![image](https://github.com/Zhaoss/WeiXinActivityStart/blob/master/image/2.png?raw=true)
+![image](https://github.com/Zhaoss/WeiXinActivityStart/blob/master/image/1.jpg?raw=true)
+![image](https://github.com/Zhaoss/WeiXinActivityStart/blob/master/image/2.jpg?raw=true)
